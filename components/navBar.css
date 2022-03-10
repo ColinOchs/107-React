@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&family=Roboto:wght@100;400;700&family=Shadows+Into+Light&family=Shizuru&family=Short+Stack&display=swap');
+.navBar h2{
+    font-family: 'Trebuchet MS', sans-serif;
+    font-size: 60px;
+    color: ghostwhite;
+    background-color: black;
+    padding: 10px;
+    -webkit-text-stroke-width: .2px;
+    -webkit-text-stroke-color: black;
+    font-family: "Shadows Into Light";
+    border-radius: 25%;
+}

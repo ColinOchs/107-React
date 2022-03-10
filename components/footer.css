@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&family=Roboto:wght@100;400;700&family=Shadows+Into+Light&family=Shizuru&family=Short+Stack&display=swap');
+
+.footer h2{
+    background-color: lightgray;
+    color: ghostwhite;
+    font-family: 'Trebuchet MS',  sans-serif;
+    font-weight: 600;
+    font-size: 30px;
+    -webkit-text-stroke-width: .1px;
+    -webkit-text-stroke-color: black;
+    font-family: "Shadows Into Light";
+    margin-top: 30px;
+    border-radius: 20%;
+    
+}
+h3{
+    background-color: lightblue;
+    color: ghostwhite;
+    font-family: 'Trebuchet MS',  sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+    -webkit-text-stroke-width: .1px;
+    -webkit-text-stroke-color: black;
+    font-family: "Shadows Into Light";
+    
+}
+p{
+   
+    font-size: 20px;
+    color:black;
+    text-decoration: overline;
+    text-decoration-color: whitesmoke;
+}
+
