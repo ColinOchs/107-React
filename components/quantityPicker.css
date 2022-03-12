@@ -1,5 +1,9 @@
-.quantityPicker label, .quantityPicker button{
+.quantityPicker label{
+font-size: 22px;
+}
+.quantityPicker button{
     display: inline-block;
+    padding: 5px;
     margin:  10px;
-   
+    
 }

@@ -3,5 +3,26 @@
     color: rgb(61, 61, 61);
 }
 h2{
-    font-family: "lato";
+    font-family: "caveat";
+    
+}
+h3{
+    background-color: lightblue;
+    color: ghostwhite;
+    font-family: 'Trebuchet MS',  sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+    -webkit-text-stroke-width: .1px;
+    -webkit-text-stroke-color: black;
+    font-family: "Shadows Into Light";
+    text-decoration: underline;
+    text-decoration-color: whitesmoke;
+    width:50%;
+    margin:auto;
+    padding: 10px;
+    border: 4px double black;
+    
+}
+p{
+    font-size: 50px;
 }

@@ -8,7 +8,7 @@ const Product = (props) => {
         <label className="price">{props.price}</label>
         <label className="total">$Total</label>
         <QuantityPicker></QuantityPicker>
-        <button>Add</button>
+        <button className="btn btn-primary btn-sm">Add to Cart</button>
     </div>);
 };
 
