@@ -9,17 +9,25 @@
 }
 img{
     border-radius: 3%;
-    height: 150px;
-    width: 150px;
+    height: 240px;
+    width: 240px;
 }
 .product label{
     display: inline-block;
     
 }
-.product .price, .product .total{
+.product .price{
+    display: block;
+    padding:3px;
+    text-decoration: underline;
+}
+ .product .total{
     display: block;
     padding: 3px;
-    border: 1px dashed black;
+    text-decoration: underline;
     margin: 2px;
     
+}
+.product button{
+    font-size: 18px;
 }
