@@ -1,3 +1,12 @@
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    img{
+        border-radius: 3%;
+        height: 40px;
+        width: 40px;
+    }
+
+}
 .product{
     border: 1px solid gray;
     border-radius: 5px;
