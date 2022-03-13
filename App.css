@@ -38,8 +38,8 @@
     transform: rotate(360deg);
   }
 }
-h1{
+.App h1{
   font-family: "caveat";
-  font-size: 30px;
+  font-size:38px;
   text-decoration: 1px underline;
 }
